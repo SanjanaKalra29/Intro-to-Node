@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.18.4",
+  "description": "simple web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjanaKalra29/Intro-to-Node.git"
+  },
+  "author": "Sanjana Kalra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SanjanaKalra29/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/SanjanaKalra29/Intro-to-Node#readme"
+}
